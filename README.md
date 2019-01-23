@@ -35,7 +35,7 @@ I have installed IPT and import sample data before by following the video tutori
 * Familiar with the data format and content of sourcedata colleceted by TUBRI.
 
 ## GeoServer + Openlayer (10 days)
-GeoServer is totally new for me. I am not sure how deeply I need to learn. I was starting to read the documentation. I installed a server on my computer and tried to operate and generate map data and files. Then I make Openlayer connect with GeoServer to load map files and data to present a map in a webpage.
+GeoServer is totally new for me. I am not sure how deeply I need to learn. I was starting to read the documentation. I installed a server on my computer and tried to operate and generate map data and files. Then let Openlayer connect with GeoServer to load map files and data to present a map in a webpage.
 Openlayer 2.x and Openlayer 4.x may have different usages and features. A summary is important.
 If you can provide some guides, advice, and training, the learning process could be more efficient. 
 ## Flask (10 days)
