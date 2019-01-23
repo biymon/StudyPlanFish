@@ -29,10 +29,11 @@ IIS is an extensible web server. I have experience with Apache2, I can transfer 
 * The most important part is spatial and full index searching, I already know their concepts and principles. I have to learn how they are work in SQL server. *A quick question: Why does FishNet2 not use Solr/Lucene here*
 
 ## IPT
-I have installed IPT and import sample data before by following the video tutorial on GBIF website. What I need to learn are:
+I have installed IPT and import sample data before by following the video tutorial on the GBIF website. What I need to learn are:
+
 * Familiar with the Darwin Core Archives format and components.
 * Publish the Darwin Core Archives data using IPT.
-* Familiar with the data format and content of sourcedata colleceted by TUBRI.
+* Familiar with the data format and content of source data collected by TUBRI.
 
 ## GeoServer + Openlayer (10 days)
 GeoServer is totally new for me. I am not sure how deeply I need to learn. I was starting to read the documentation. I installed a server on my computer and tried to operate and generate map data and files. Then let Openlayer connect with GeoServer to load map files and data to present a map in a webpage.
