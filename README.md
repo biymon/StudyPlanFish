@@ -8,7 +8,7 @@ The programming languages have many similarities, I can transfer python and obje
 * Learn common libraries in C# and know what the libraries provide, what they are all about? How to apply them in different cases. Especially the ones relate to the FishNet2. For instance, how to connect with database(CRUD operations and Full Text Indexing), web services(HTTP handlers), threads, data processing etc.
 * Read lots of good code from the Internet, Keep practicing.
 
-## ASP.NET & IIS( or other web frameworks and server software)(5 days):
+## ASP.NET & IIS( or other web frameworks and server softwares)(5 days):
 ### ASP.NET
 ASP.NET is a web technology for developing a web application using C#. I already know how to implement MVC in Angular6. And I also have some ASP.NET experience before. What I need to know to transfer to ASP.NET are:
 * How to create a web application with MVC architecture.
